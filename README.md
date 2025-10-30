@@ -14,6 +14,9 @@ O código utiliza as seguintes bibliotecas:
 - `skimage.feature.daisy` → Para extração dos descritores DAISY.
 
 ---
+## Link de referencia
+https://scikit-image.org/docs/stable/auto_examples/features_detection/plot_daisy.html#sphx-glr-auto-examples-features-detection-plot-daisy-py
+---
 
 ## Como Executar
 
